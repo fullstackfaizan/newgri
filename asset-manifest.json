@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fullstackfaizan/newgri/static/css/main.073c9b0a.css",
+    "main.js": "/fullstackfaizan/newgri/static/js/main.dee86a27.js",
+    "static/js/787.88008f41.chunk.js": "/fullstackfaizan/newgri/static/js/787.88008f41.chunk.js",
+    "static/media/logo.svg": "/fullstackfaizan/newgri/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fullstackfaizan/newgri/index.html",
+    "main.073c9b0a.css.map": "/fullstackfaizan/newgri/static/css/main.073c9b0a.css.map",
+    "main.dee86a27.js.map": "/fullstackfaizan/newgri/static/js/main.dee86a27.js.map",
+    "787.88008f41.chunk.js.map": "/fullstackfaizan/newgri/static/js/787.88008f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dee86a27.js"
+  ]
+}
